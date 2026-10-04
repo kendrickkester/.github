@@ -1,6 +1,6 @@
 # .github
 
-Shared GitHub contribution and pull-request standards for Kendrick Kester's repositories.
+Shared GitHub contribution and pull-request standards for my repositories.
 
 ## What this is
 
